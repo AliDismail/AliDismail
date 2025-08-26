@@ -3,7 +3,8 @@
 I am an ambitious Mechatronics Engineering student with a robust foundation in robotics, programming, and problem-solving, driven to excel in Robotics and Machine Learning. Currently, I am pursuing my bachelor’s degree in Mechatronics Engineering at LAU, where I am actively involved in the robotics community and continually learning about the latest developments in the field.  
 My belief that learning without practice is just theory drives me to seek opportunities that test and apply my knowledge. I helped organize the LAU Robotics and VR/AR Summer Camp 2024 as a Robotics teaching assistant and LAU Robotics and AI summer camp 2025 version as a lead organizer. Additionally, I am a two-time world champion at the Do Your Bit competition for 2021 and 2022 and have participated in various robotics and problem-solving competitions such as Do Your Bit Lebanon and worldwide, Imagine Cup, and RHU Robotics Competition.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ali-d-ismail)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-d-ismail)
+
 
 ## ⚡ Technologies
 
