@@ -21,10 +21,10 @@ My belief that learning without practice is just theory drives me to seek opport
 
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AliDismail&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AliDismail&show_icons=true&include_all_commits=true&hide_rank=true)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliDismail&count_private=true&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliDismail&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AliDismail.AliDismail)
