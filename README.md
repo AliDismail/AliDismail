@@ -7,18 +7,21 @@ My belief that learning without practice is just theory drives me to seek opport
 Beyond the technical work, I helped organize the LAU Robotics and VR/AR Summer Camp 2024 as a Robotics teaching assistant and LAU Robotics and AI summer camp 2025 version as a lead organizer. Additionally, I am a two-time world champion at the Do Your Bit competition for 2021 and 2022 and have participated in various robotics and problem-solving competitions such as Do Your Bit Lebanon and worldwide, Imagine Cup, and RHU Robotics Competition 2020.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-d-ismail)
-
+[![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-link-here.com)
 
 ## ⚡ Technologies
 
 ![Robotics](https://img.shields.io/badge/-Robotics-red?style=for-the-badge)
+![RaspberryPi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2312101.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+![MyRio](https://img.shields.io/badge/MyRio-%23129.svg?style=for-the-badge&logo=MyRio&logoColor=white)
+![NILabView](https://img.shields.io/badge/NILabView-%23621061.svg?style=for-the-badge&logo=NILabView&logoColor=white)
 ![Matlab](https://img.shields.io/badge/-MATLAB-orange?style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-%2312101.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-![MyRio](https://img.shields.io/badge/MyRio-%23129.svg?style=for-the-badge&logo=MyRio&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%23121061.svg?style=for-the-badge&logoColor=white)
-![NILabView](https://img.shields.io/badge/NILabView-%23621061.svg?style=for-the-badge&logo=NILabView&logoColor=white)
 ![C](https://img.shields.io/badge/C-violet?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
