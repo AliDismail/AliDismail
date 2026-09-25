@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am an ambitious Mechatronics Engineering student with a robust foundation in robotics, programming, and problem-solving, driven to excel in Robotics and Control Systems. Currently, I am pursuing my bachelor’s degree in Mechatronics Engineering at LAU, where I am actively involved in the robotics community and continually learning about the latest developments in the field.
+I am an ambitious Mechatronics Engineering student with a robust foundation in robotics, programming, and problem-solving, driven to excel in Robotics and Mechatronics Systems. Currently, I am pursuing my bachelor’s degree in Mechatronics Engineering at LAU, where I am actively involved in the robotics community and continually learning about the latest developments in the field.
 
 My belief that learning without practice is just theory drives me to seek opportunities that test and apply my knowledge. Most recently, I completed a seven month internship at Camerabotics, a Beirut based robotics company building motion control solutions for camera and cinema robotics. As an embedded systems developer, I worked on STM32 based motor controller firmware, designed a custom UART communication protocol, implemented flash based configuration persistence, and built cascaded PID position and velocity control for stepper motors, alongside developing testing tools to support the whole process.
 
